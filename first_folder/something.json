@@ -1,0 +1,27 @@
+{
+    "name":"JSON",
+    "date":"January 21, 2001",
+    "sex":"Male",
+    "natationality":"American"
+}
+
+[
+    "Karen",
+    "Ken",
+    "John"
+]
+
+[
+    {
+        "name":"Leila",
+        "size":"B"
+    },
+    {
+        "name":"Joyce",
+        "size":"C"
+    },
+    {
+        "name":"Jessica",
+        "size":"A"
+    }
+]
